@@ -14,7 +14,7 @@ end
 # Use bootstrap library for styles
 gem 'bootstrap-sass', '~> 3.3.1'
 
-# Use font awesome 
+# Use font awesome library for styles 
 gem 'font-awesome-sass',  '4.2.0'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
